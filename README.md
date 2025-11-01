@@ -25,4 +25,20 @@ A Flutter mobile application for healthcare professionals to manage patient reco
    ```bash
    git clone https://github.com/RiakJam/Patient-Management-App
    cd patient_management_app# Patient-Management-App
-# Patient-Management-App
+2. **Install dependencies**
+    flutter pub get
+
+3. Run the app
+    flutter run
+
+## Building APK
+**Debug APK**
+    flutter build apk --debug
+
+**Release APK**
+    flutter build apk --release
+
+## API Configuration
+    The app connects to: https://patientvisitapis.intellisoftkenya.com/api/
+
+
