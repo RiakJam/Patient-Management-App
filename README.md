@@ -41,4 +41,4 @@ A Flutter mobile application for healthcare professionals to manage patient reco
 ## API Configuration
     The app connects to: https://patientvisitapis.intellisoftkenya.com/api/
 
-
+## Screenshots folder is added
