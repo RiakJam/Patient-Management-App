@@ -23,6 +23,6 @@ A Flutter mobile application for healthcare professionals to manage patient reco
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone [https://github.com/RiakJam/Patient-Management-App]
    cd patient_management_app# Patient-Management-App
 # Patient-Management-App
